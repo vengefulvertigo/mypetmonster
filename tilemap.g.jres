@@ -1,0 +1,43 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA1MDkwYTA5MGEwOTBhMDkwYTA5MGEwOTA5MGEwOTA0MDYxMTExMTExMTExMGYwMTAxMDEwMTAxMDEwMTAxMDcwZDExMTExMTExMTEwZjAxMDEwMTAxMDEwMTAxMDEwYzA2MTExMTExMTExMTBmMDEwMTAxMDEwMTAxMDEwMTA3MGQxMTExMTExMTExMGYwMTAxMDEwMTAxMDEwMTAxMGMwNjExMTExMTExMTExMTBmMGYwMTAxMDEwMTAxMDEwNzA2MTExMTExMTExMTExMTEwZjBmMGYwMTAxMDEwMTA3MGQwZTBlMGUwZTExMTExMTExMTEwZjAxMDEwMTAxMGMwNjEwMTExMTExMTExMjExMTExMTBmMGYwMTAxMDEwNzA2MTMxNTE1MTUxNTE0MTExMTExMGYwZjAxMDEwMTA3MGQxNjE2MTYxNjE2MTExMTExMGYwZjAxMDEwMTAxMGMwNjExMTExMTExMTExMTBmMGYwZjAxMDEwMTAxMDEwNzA2MTExMTExMTExMTBmMGYwMTAxMDEwMTAxMDEwMTA3MGQxMTExMTExMTExMGYwMTAxMDEwMTAxMDEwMTAxMGMwNjExMTExMTExMTEwZjAxMDEwMTAxMDEwMTAxMDEwNzAyMDgwYjA4MGIwODBiMDgwODBiMDgwYjA4MGIwODAzMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.floorLight0",
+            "sprites.dungeon.greenOuterSouthEast",
+            "sprites.dungeon.greenOuterSouthWest",
+            "sprites.dungeon.greenOuterNorthEast",
+            "sprites.dungeon.greenOuterNorthWest",
+            "sprites.dungeon.greenOuterWest0",
+            "sprites.dungeon.greenOuterEast0",
+            "sprites.dungeon.greenOuterSouth0",
+            "sprites.dungeon.greenOuterNorth1",
+            "sprites.dungeon.greenOuterNorth2",
+            "sprites.dungeon.greenOuterSouth2",
+            "sprites.dungeon.greenOuterEast2",
+            "sprites.dungeon.greenOuterWest2",
+            "sprites.dungeon.floorLight4",
+            "sprites.dungeon.floorLightMoss",
+            "sprites.builtin.forestTiles5",
+            "sprites.builtin.forestTiles6",
+            "sprites.builtin.forestTiles7",
+            "sprites.builtin.forestTiles9",
+            "sprites.builtin.forestTiles11",
+            "sprites.builtin.forestTiles10",
+            "sprites.builtin.forestTiles14"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
